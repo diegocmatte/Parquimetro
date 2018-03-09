@@ -19,7 +19,6 @@ public class Parquimetro {
     private int saldo;
 
     public Parquimetro() {
-        ;
         saldo = 0;
     }
 
